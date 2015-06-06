@@ -6,14 +6,14 @@ To do this:
 
  * Export all of your contacts as vCard 
   * Mac OS:
-  ** export all of your contacts as Contacs.txt (CMD+A on contacts right click: export vCard)
-  ** If Contacts.app forces you to use other file-ending vcf click use both and rename file to .txt (manually or via comand line:
+    * export all of your contacts as Contacs.txt (CMD+A on contacts right click: export vCard)
+    * If Contacts.app forces you to use other file-ending vcf click use both and rename file to .txt (manually or via comand line:
   ``` 
   mv Contacts.txt.vcf Contacts.txt 
   ```
   
   * Google Contacts:
-   * https://support.google.com/mail/answer/24911?hl=en 
+    * https://support.google.com/mail/answer/24911?hl=en 
   
 
  * Put this script in the same folder or change the path of the file in shell script
