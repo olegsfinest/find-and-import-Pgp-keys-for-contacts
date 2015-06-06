@@ -1,4 +1,4 @@
-# find-and-import-Pgp-keys-for-e-mails-from-mac-Contacts
+# find-and-import-Pgp-keys-for-contacts
 
 Checks all of your email-addreses stored in vCard-exports, if they have a public key available
 
