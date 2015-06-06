@@ -8,9 +8,9 @@ To do this:
   * Mac OS:
     * export all of your contacts as Contacs.txt (CMD+A on contacts right click: export vCard)
     * If Contacts.app forces you to use other file-ending vcf click use both and rename file to .txt (manually or via comand line:
-  ``` 
-  mv Contacts.txt.vcf Contacts.txt 
-  ```
+    ``` 
+    mv Contacts.txt.vcf Contacts.txt 
+    ```
   
   * Google Contacts:
     * https://support.google.com/mail/answer/24911?hl=en 
